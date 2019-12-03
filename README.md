@@ -1,2 +1,2 @@
 # ILSCrucigramas
-Generado de de crucigramas digital
+Generador de crucigramas digital para el Instituto ILS XXI
